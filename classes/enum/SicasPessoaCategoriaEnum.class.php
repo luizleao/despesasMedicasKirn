@@ -1,0 +1,44 @@
+<?php
+class SicasPessoaCategoriaEnum{
+	const ATIVO_PERMANENTE     = 1;
+	const APOSENTADO           = 2;
+	const REQUISITADO          = 3;
+	const CARGO_EM_COMISSAO    = 4;
+	const FALECIDO             = 5;
+	const CEDIDO               = 8;
+	const RED_ADA_P_OUTR_ORGAO = 9;
+	const ATIVO_TRANSITORIO    = 10;
+	const EXCEDENTE_A_LOTACAO  = 11;
+	const LICENCA_POLITICA     = 12;
+	const EM_DISPONIBILIDADE   = 13;
+	const LICENCA_PARTICULAR   = 14;
+	const EXONERACAO           = 15;
+	const DEMISSAO             = 16;
+	const TRANSFERENCIA        = 17;
+	const PENSIONISTA          = 18;
+	const REDISTRIBUIDO_P      = 20;
+	const LICENCA_MATERNIDADE  = 21;
+	const COLABORADOR_EVENTUAL = 30;
+	const CONVIDADO            = 50;
+	const LOTACAO_PROVISORIA   = 51;
+	const ESG_RIO_DE_JANEIRO   = 52;
+	const INATIVO_INSS         = 53;
+	const CARGO_INACUMULAVEL   = 54;
+	const LICENCA_ACOMP_CONJUG = 55;
+	const LOT_PROV_NO_ORGAO    = 56;
+	const PDV                  = 58;
+	const AFASTADO             = 59;
+	const EXERC_NA_PROC_FAZ_NA = 60;
+	const EXERC_NA_PROC_DA_UNI = 61;
+	const EXERC_NA_PROC_INSS   = 62;
+	const REMOCAO              = 63;
+	const VACANCIA             = 64;
+	const CONTRATO_TEMPORARIO  = 65;
+	const SERVIDOR             = 66;
+	const ATIVO_CEDIDO         = 67;
+	const DEPENDENTE           = 68;
+	const TERCEIRIZADO         = 69;
+	const VISITANTE            = 70;
+	const ESTAGIRARIO          = 71;
+	const ABONO_PERMANENCIA    = 72;
+}

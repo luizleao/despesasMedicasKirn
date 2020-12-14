@@ -1,0 +1,86 @@
+000007;PAGADOR             ;PAGADOR                                 ;A;        ;        ;  ;6847;     ;   ;
+007001;ART.EST.OBRAS E MET.;ARTIFICE DE ESTRUTURAS DE OBRAS E METALU;A;        ;        ;  ;2623;     ;   ;
+007002;ARTIFICE DE MECANICA;ARTIFICE DE MECANICA                    ;A;        ;        ;  ;2621;     ;   ;
+007003;ART.ELE.COMUNICACOES;ARTIFICE DE ELETRICIDADE E COMUNICACOES ;A;        ;        ;  ;2622;     ;   ;
+007004;ART.DE CARP.E MARC. ;ARTIFICE DE CARPINTARIA E MARCENARIA    ;A;        ;        ;  ;2620;     ;   ;
+007006;ART.ARTES GRAFICAS  ;ARTIFICE DE ARTES GRAFICAS              ;A;        ;        ;  ;2213;     ;   ;
+007009;AUX.DE ARTIFICE     ;AUXILIAR DE ARTIFICE                    ;A;        ;        ;  ;2225;     ;   ;
+008001;AG.ADMINISTRATIVO   ;AGENTE ADMINISTRATIVO                   ;A;        ;        ;  ;2602;     ;   ;
+008002;DATILOGRAFO         ;DATILOGRAFO                             ;A;        ;        ;  ;2680;     ;   ;
+009001;MEDICO              ;MEDICO                                  ;A;        ;        ;  ;6837;     ;   ;
+009002;MEDICO SAUDE PUBLICA;MEDICO SAUDE PUBLICA                    ;A;        ;        ;  ;6838;     ;   ;
+009004;ENFERMEIRO          ;ENFERMEIRO                              ;A;        ;        ;  ;6808;     ;   ;
+009009;ODONTOLOGO          ;ODONTOLOGO                              ;A;        ;        ;  ;6844;     ;   ;
+009010;MEDICO VETERINARIO  ;MEDICO VETERINARIO                      ;A;        ;        ;  ;6840;     ;   ;
+009012;ENGENHEIRO AGRONOMO ;ENGENHEIRO AGRONOMO                     ;A;        ;        ;  ;6812;     ;   ;
+009013;ENGENHEIRO FLORESTAL;ENGENHEIRO FLORESTAL                    ;A;        ;        ;  ;6819;     ;   ;
+009016;ENGENHEIRO          ;ENGENHEIRO                              ;A;        ;        ;  ;6810;     ;   ;
+009017;ARQUITETO           ;ARQUITETO                               ;A;        ;        ;  ;6759;     ;   ;
+009018;ARQUITETO           ;ARQUITETO                               ;A;        ;        ;  ;6759;     ;   ;
+009019;GEOGRAFO            ;GEOGRAFO                                ;A;        ;        ;  ;6831;     ;   ;
+009020;GEOLOGO             ;GEOLOGO                                 ;A;        ;        ;  ;6832;     ;   ;
+009021;QUIMICO             ;QUIMICO                                 ;A;        ;        ;  ;6864;     ;   ;
+009022;ECONOMISTA          ;ECONOMISTA                              ;A;        ;        ;  ;6801;     ;   ;
+009023;ADMINISTRADOR       ;ADMINISTRADOR                           ;A;        ;        ;  ;6701;     ;   ;
+009024;CONTADOR            ;CONTADOR                                ;A;        ;        ;  ;6789;     ;   ;
+009027;TEC.ASS.EDUCACIONAIS;TECNICO EM ASSUNTOS EDUCACIONAIS        ;A;        ;        ;  ;6888;     ;   ;
+009029;SOCIOLOGO           ;SOCIOLOGO                               ;A;        ;        ;  ;6873;     ;   ;
+009030;ASSISTENTE SOCIAL   ;ASSISTENTE SOCIAL                       ;A;        ;        ;  ;6769;     ;   ;
+009031;TEC.EM COM.SOCIAL   ;TECNICO EM COMUNICACAO SOCIAL           ;A;        ;        ;  ;6884;     ;   ;
+009032;BIBLIOTECARIO       ;BIBLIOTECARIO                           ;A;        ;        ;  ;6776;     ;   ;
+009033;COLABORADOR EVENTUAL;COLABORADOR EVENTUAL                    ;A;19980525;00000000;NS;0001;    1;111;1
+009034;AUDITOR             ;AUDITOR                                 ;A;        ;        ;  ;6770;     ;   ;
+009035;PSICOLOGIA          ;PSICOLOGIA                              ;A;20030715;00000000;NS;0001;    0;000;1
+009067;TEC. EM CAPAC. MASSI;TECNICO EM CAPACITACAO MASSIVA          ;A;20040910;00000000;NS;0001;    0;000;1
+009568;ESTATISTICO         ;ESTATISTICO                             ;A;20040910;00000000;NS;0001;    0;000;1
+009576;TEC. EM CAPACIT. MAS;TECNICO EM CAPACITACAO MASSIVA          ;A;20040910;00000000;NS;0001;    0;000;1
+009577;ASSIST. TEC. FINANCE;ASSISTENTE TECNICO FINANCEIRO           ;A;20040910;00000000;NS;0001;    0;000;1
+009578;ANALISTA TECNICO ADM;ANALISTA TECNICO ADMINISTRATIVO         ;A;20141201;00000000;NS;0001;    1;111;1
+009579;ENGENHEIRO ELETRICO ;ENGENHEIRO ELETRICO                     ;A;20141201;00000000;NS;0001;    1;111;1
+009580;ENGENHEIRO DE PROD  ;ENGENHEIRO DE PRODUCAO                  ;A;20141201;00000000;NS;0001;    0;000;1
+009581;ENGENHEIRO DE PESCA ;ENGENHEIRO DE PESCA                     ;A;20141201;00000000;NS;0001;    0;000;1
+009582;ZOOTECNISTA         ;ZOOTECNISTA                             ;A;20141201;00000000;NS;0001;    0;000;1
+009583;ENGENHEIRO MECANICO ;ENGENHEIRO MECANICO                     ;A;20141201;00000000;NS;0001;    0;000;1
+009584;QUIMICO             ;QUIMICO                                 ;A;20141201;00000000;NS;0001;    0;000;1
+009585;ENGENHEIRO CIVIL    ;ENGENHEIRO CIVIL                        ;A;20141201;00000000;NS;0001;    0;000;1
+010001;AUX.DE ENFERMAGEM   ;AUXILIAR DE ENFERMAGEM                  ;A;        ;        ;  ;2645;     ;   ;
+010007;AG.ATIV.AGROPECUARIA;AGENTE DE ATIVIDADES AGROPECUARIAS      ;A;        ;        ;  ;2607;     ;   ;
+010013;AG.SERV.ENGENHARIA  ;AGENTE DE SERVICOS DE ENGENHARIA        ;A;        ;        ;  ;2610;     ;   ;
+010014;DESENHISTA          ;DESENHISTA                              ;A;        ;        ;  ;2681;     ;   ;
+010017;TEC.EM REC.HIDRICOS ;TECNICO EM RECURSOS HIDRICOS            ;A;        ;        ;  ;2808;     ;   ;
+010023;AG.ASS.IND.MADEIREIR;AGENTE DE ASSUNTOS DA INDUSTRIA MADEIREI;A;        ;        ;  ;2603;     ;   ;
+010027;AG.TELE.ELETRICIDADE;AGENTE DE TELECOMUNICACOES E ELETRICIDAD;A;        ;        ;  ;2613;     ;   ;
+010033;AG.DE CINEF.MICROF. ;AGENTE DE CINEFOTOGRAFIA E MICROFILMAGEM;A;        ;        ;  ;2608;     ;   ;
+010038;AG.TRANS.MAR.FLUVIAL;AGENTE DE TRANSPORTE MARITIMO E FLUVIAL ;A;        ;        ;  ;2611;     ;   ;
+010042;TEC.DE CONTABILIDADE;TECNICO DE CONTABILIDADE                ;A;        ;        ;  ;2770;     ;   ;
+010043;AG.MECANIZACAO APOIO;AGENTE DE MECANIZACAO DE APOIO          ;A;        ;        ;  ;2609;     ;   ;
+010044;TELEFONISTA         ;TELEFONISTA                             ;A;        ;        ;  ;2419;     ;   ;
+010045;AG.DE VIGILANCIA    ;AGENTE DE VIGILANCIA                    ;A;        ;        ;  ;2206;     ;   ;
+010046;TECNICO DE ESTRADAS ;TECNICO DE ESTRADAS                     ;A;19960514;00000000;NA;2222;    9;999;9
+010047;AG.DE PROG.ASSISTENC;AG.DE PROGRAMA ASSISTENCIAL             ;A;19960617;00000000;NA;9999;    9;999;9
+010057;AUX.OPE.AGROPECUARIA;AUXILIAR OPERACIONAL EM AGROPECUARIA    ;A;19970701;00000000;NI;2222;    1;111;1
+010064;AUX. LABORATORIO    ;AUXILIAR DE LABORATORIO                 ;A;19970813;00000000;NI;1111;    1;111;1
+011003;PROCURADOR FEDERAL  ;PROCURADOR FEDERAL                      ;A;        ;        ;NS;6852;    0;110;3
+011004;TEC.ASSUNTOS EDUC.  ;TECNICO EM ASSUNTOS EDUCACIONAIS        ;A;19960513;00000000;  ;0001;     ;   ;
+012001;MOTORISTA OFICIAL   ;MOTORISTA OFICIAL                       ;A;        ;        ;  ;2292;     ;   ;
+012002;AGENTE DE PORTARIA  ;AGENTE DE PORTARIA                      ;A;        ;        ;  ;2202;     ;   ;
+013001;TEC.D.AREA E C.T.A. ;TEC DEFESA AEREA E CONT TRAFEGO AERE    ;A;19960515;00000000;  ;0001;     ;   ;
+013002;TEC.INFO.AERO.      ;TECNICO EM INFORMACOES AERONAUTICAS     ;A;19960515;00000000;  ;0001;     ;   ;
+013003;CONT.TRAF.AEREO     ;CONTROLADOR DE TRAFEGO AEREO            ;A;19960515;00000000;  ;0001;     ;   ;
+013004;TEC.ELETRO.TELECOM. ;TEC EM ELETRONICA E TELECOMUNICACOES    ;A;19960515;00000000;  ;0001;     ;   ;
+014001;ANAL.DE INFORMACOES ;ANALISTA DE INFORMACOES                 ;A;        ;        ;  ;6721;     ;   ;
+014002;ANAL.SEG.NAC.E MOB. ;ANALISTA DE SEG NACIONAL E MOBILIZAC    ;A;19960515;00000000;  ;0001;     ;   ;
+014003;AUXILIAR DE INFO.   ;AUXILIAR DE INFORMACOES                 ;A;19960515;00000000;  ;0001;     ;   ;
+015001;TEC.PLANEJAMENTO    ;TECNICO DE PLANEJAMENTO                 ;A;19960515;00000000;  ;0001;     ;   ;
+016001;ANALISTA DE SISTEMAS;ANALISTA DE SISTEMAS                    ;A;        ;        ;  ;6733;     ;   ;
+016002;PROGRAMADOR         ;PROGRAMADOR                             ;A;        ;        ;  ;2751;     ;   ;
+016003;OPERADOR DE COMPUT. ;OPERADOR DE COMPUTACAO                  ;A;        ;        ;  ;2726;     ;   ;
+016004;PERFURADOR/DIGITADOR;PERFURADOR/DIGITADOR                    ;A;19960515;00000000;  ;0001;     ;   ;
+017001;SANITARISTA         ;SANITARISTA                             ;A;19960515;00000000;  ;0001;     ;   ;
+017002;AG.SAUDE PUBLICA    ;AGENTE DE SAUDE PUBLICA                 ;A;19960515;00000000;  ;0001;     ;   ;
+042030;ASS.ADMINISTRATIVO  ;ASSISTENTE ADMINISTRATIVO               ;A;19980911;00000000;NI;2603;    0;100;0
+044044;CONTRATADO FUNCAO   ;CONTRATADO POR FUNCAO                   ;A;        ;        ;  ;4444;     ;   ;
+050009;COMAND.DE AERONAVE  ;COMANDANTE DE AERONAVE                  ;A;        ;        ;  ;6847;     ;   ;
+052009;PAGADOR             ;PAGADOR                                 ;A;19960516;00000000;  ;0001;     ;   ;
+060001;COORD.C.GERAL S.A.I.;COORD.COORD.GERAL DE SUST/ACOMP.INT     ;A;19970514;00000000;  ;0001;     ;   ;
+066009;ASSIST. TECNIC. FIN ;ASSISTENTE TECNICO FINANCEIRO           ;A;20040901;00000000;NS;0001;    0;000;1  

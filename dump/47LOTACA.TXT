@@ -1,0 +1,71 @@
+900000000;SUPERINTENDENCIA                                                                                    ;SUPERINTEN;00190
+900000500;CONSELHO DELIBERATIVO                                                                               ;CONDEL    ;00191
+900010000;GABINETE                                                                                            ;GAB       ;00192
+900010002;DIVISAO DE APOIO AO GABINETE                                                                        ;DAG       ;00211
+900020000;ASSESSORIA DE COMUNICACAO SOCIAL E MARKENTING INSTITUCIONAL                                         ;ASCOM     ;00193
+900030000;ASSESSORIA DE GESTAO INSTITUCIONAL                                                                  ;AGI       ;00194
+900030002;DIVISAO DE DESENVOLVIMENTO INSTITUCIONAL                                                            ;DEIN      ;
+900030004;DIVISAO DE RELACOES INSTITUCIONAIS                                                                  ;DRIN      ;
+900040000;ASSESSORIA DE SUPORTE TECNICO AOS COLEGIADOS                                                        ;ASCOL     ;00195
+900050000;COORDENACAO DE DEFESA CIVIL                                                                         ;CORDEC    ;00196
+900050002;DIVISAO DE ARTICULACAO, AVALIACAO E GESTAO DE RISCOS                                                ;DAGR      ;00196
+900080000;PROCURADORIA FEDERAL ESPECIALIZADA                                                                  ;PFE/SUDAM ;00197
+900080100;COORDENACAO JURIDICA                                                                                ;COJUR     ;00198
+900090000;AUDITORIA-GERAL                                                                                     ;AUD       ;00199
+900090002;DIVISAO DE ACOMPANHAMENTO E AVALIACAO DA GESTAO                                                     ;DAGES     ;00199
+900090004;DIVISAO DE ACOMPANHAMENTO E AVALIACAO DE PROGRAMAS                                                  ;DAPRO     ;00199
+900100000;OUVIDORIA                                                                                           ;OUV       ;00200
+900200000;DIRETORIA DE ADMINISTRACAO                                                                          ;DA        ;00201
+900200002;DIVISAO DE APOIO · GESTAO                                                                           ;DAG       ;00200
+900200100;COORDENACAO DE GESTAO DE TECNOLOGIA DA INFORMACAO                                                   ;CGTI      ;00202
+900200101;CGTI-BIBLIOTECA                                                                                     ;BIBLIOTECA;00203
+900200110;CGTI-ARQUIVO GERAL                                                                                  ;ARQUIVO   ;00204
+900200112;DIVISAO DE SISTEMAS DE INFORMACAO                                                                   ;DSI       ;00211
+900200114;DIVISAO DE INFRAESTRUTURA TECNOLOGICA                                                               ;DIT       ;00211
+900200150;COORDENACAO DE LICITACOES E CONTRATOS                                                               ;CLC       ;00205
+900200200;COORDENACAO-GERAL DE PESSOAL, ADMINISTRACAO E FINANCAS                                              ;COGAF     ;00206
+900200210;COORDENACAO DE GESTAO ORCAMENTARIA E FINANCEIRA                                                     ;COFI      ;00207
+900200212;DIVISAO DE ATIVISADES ORCAMENTARIAS E FINANCEIRAS                                                   ;DOFI      ;00211
+900200230;COORDENACAO DE GESTAO ADMINISTRATIVA                                                                ;CGA       ;00208
+900200232;DIVISAO DE ATIVIDADES ADMINISTRATIVAS                                                               ;DAD       ;00211
+900200233;CGA-ALMOXARIFADO                                                                                    ;ALMOX     ;00209
+900200234;CGA-BIBLIOTECA                                                                                      ;BIBLIOTECA;00208
+900200235;CGA-REPOGRAFIA                                                                                      ;REPOG     ;00210
+900200236;CGA-ARQUIVO GERAL                                                                                   ;ARQUIVO   ;00208
+900200237;CGA-PROTOCOLO                                                                                       ;PROTOCOLO ;00211
+900200238;CGA-ENGENHARIA                                                                                      ;ENGENHARIA;00212
+900200240;COORDENACAO DE GOVERNANCA E GESTAO DE PESSOAS                                                       ;CGP       ;00213
+900200242;DIVISAO DE ATIVIDADES DE GESTAO DE PESSOAS                                                          ;DGP       ;00211
+900200245;CGP-SERVICOÿMEDICO                                                                                  ;SAMS      ;00214
+900200250;COMISSAO PERMANENTE DE CONVENIOS                                                                    ;CPC       ;00215
+900300000;DIRETORIA DE PLANEJAMENTO E ARTICULACAO DE POLITICAS                                                ;DIPLAN    ;00216
+900300100;COORDENACAO DE PLANEJAMENTO E PROGRAMACAO ORCAMENTARIA                                              ;CPOR      ;00217
+900300102;DIVISAO DE ACOMPANHAMENTO ORCAMENTARIO                                                              ;DACOR     ;
+900300200;COORDENACAO-GERAL DE ELABORACAO E AVALIACAO DOS PLANOS DE DESENVOLVIMENTO                           ;CGEAP     ;00218
+900300210;COORDENACAO DE ELABORACAO, MONITORAMENTO E AVALIACAO DOS PLANOS E PROGRAMAS DE DESENVOLVIMENTO      ;CEMP      ;00219
+900300300;COORDENACAO-GERAL DE COOPERACAO E ARTICULACAO DE POLITICAS                                          ;CGCAP     ;00220
+900300310;COORDENACAO DE COOPERACAO E ARTICULACAO DE POLITICAS                                                ;CCAP      ;00221
+900300400;COORDENACAO-GERAL DE ELABORACAO DE PROGRAMAS E PROJETOS ESPECIAIS                                   ;COGPE     ;
+900300500;COORDENACAO-GERAL DE CONVENIOS E MONITORAMENTO                                                      ;CGCOM     ;
+900300510;COORDENACAO DE CONBENIOS EMONITORAMENTO                                                             ;CCOM      ;
+900400000;DIRETORIA DE PROMOCAO DO DESENVOLVIMENTO SUSTENTAVEL                                                ;DPROS     ;00222
+900400100;COORDENACAO-GERAL DE PROMOCAO DO DESENVOLVIMENTO SUSTENTAVEL                                        ;CODESUS   ;00223
+900400110;COORDENACAO DE MEIO AMBIENTE E DE CIENCIA, TECNOLOGIA E INOVACAO                                    ;COMAM     ;00224
+900400120;COORDENACAO DE INFRA-ESTRUTURA                                                                      ;COIE      ;00225
+900400130;COORDENACAO DE DESENVOLVIMENTO SOCIAL                                                               ;CDES      ;00226
+900400300;COORDENACAO-GERAL DE INCLUSAO SOCIAL E DESENVOLVIMENTO SUSTENTAVEL                                  ;COGID     ;
+900500000;DIRETORIA DE GESTAO DE FUNDOS E INCENTIVOS E DE ATRACAO DE INVESTIMENTOS                            ;DGFAI     ;00227
+900500100;COORDENACAO-GERAL DE FUNDOS DE DESENVOLVIMENTO E FINANCIAMENTO                                      ;CGFIN     ;00228
+900500110;COORDENACAO DE GESTAO E ANALISE DE FUNDOS DE DESENVOLVIMENTO E FINANCIAMENTO                        ;CGAFI     ;00229
+900500120;COORDENACAO DE LIBERACAO E CONTROLE DE FINANCIAMENTO                                                ;CLCF      ;00230
+900500200;COORDENACAO-GERAL DE INCENTIVOS E BENEFICIOS FISCAIS E FINANCEIROS                                  ;CGIF      ;00231
+900500210;COORDENACAO DE INCENTIVOS E BENEFICIOS FISCAIS E FINANCEIROS                                        ;CIF       ;00232
+900500300;COORDENACAO-GERAL DE AVALIACAO DE FUNDOS E INCENTIVOS FISCAIS                                       ;CGAV      ;
+900500310;COORDENACAO DE AVALIACAO DE INSTRUMENTOS DE DESENVOLVIMENTO REGIONAL                                ;CADES     ;00233
+900700000;ESCRITORIO DE REPRESENTACAO EM BRASILIA                                                             ;ERDF      ;00233
+900900100;COMISSAO DISCIPLINAR PERMANENTE                                                                     ;CDP       ;00234
+900900200;COMISSAO DE SINDICANCIA - PORTARIA 26/2011                                                          ;CSP26/11  ;00235
+900900300;FORCA TAREFA - PORTARIA No.55-21/06/2011                                                            ;FTP55/0611;00236
+900900400;COMISSAO PERMANENTE DE PLANEJAMENTO AMBIENTAL                                                       ;CPPA114/11;00237
+900900500;COMISSAO DE ACOMPANHAMENTO E AVALIACAO DE DESEMPENHO                                                ;CAD       ;00238
+900900900;PROCESSOS PROVISORIOS                                                                               ;PPROV     ;00239
